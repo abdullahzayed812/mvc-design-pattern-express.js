@@ -6,4 +6,4 @@ const errorHandler = (error, request, response, next) => {
   response.status(500).send(error.message);
 };
 
-module.exports = { errorHandler };
+module.exports = errorHandler;

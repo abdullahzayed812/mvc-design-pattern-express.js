@@ -26,11 +26,7 @@ const logger = (request, response, next) => {
     `${request.method}\t${request.headers.origin}\t${request.url}`,
     "reqLog.txt"
   );
-  console.log({
-    requestMethod: request.method,
-    requestHeaderOrigin: request.headers.origin,
-    requestUrl: request.url,
-  });
+  console.log(request.url, request.method);
   next();
 };
 
