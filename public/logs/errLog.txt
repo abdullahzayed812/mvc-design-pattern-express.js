@@ -1,0 +1,10 @@
+3/16/2023, 7:20:26 PM	c0932051-2e02-42c0-88d8-03d9ed5cf6d8	Error: Not allowed by CORS
+3/16/2023, 9:14:11 PM	15755430-1e36-4864-92f5-7121c2b2e6c6	Error: ENOENT: no such file or directory, stat '/home/abdullah/mine/node-js/express.js-router/routes/views/index.html'
+3/17/2023, 1:30:02 PM	bef2c084-7707-4666-8f97-a3a71fc06db7	SyntaxError: Unexpected token } in JSON at position 50
+3/17/2023, 1:30:25 PM	f8a5296e-3c90-41cd-8784-c2b5273e930e	SyntaxError: Unexpected token } in JSON at position 50
+3/17/2023, 1:31:20 PM	0fa18d0c-7c3c-42f3-8f0b-59eed58c908f	SyntaxError: Unexpected token } in JSON at position 50
+3/17/2023, 1:32:10 PM	709d793d-24ec-4b86-aeec-49a99cb81b31	SyntaxError: Unexpected token } in JSON at position 50
+3/17/2023, 1:34:34 PM	8dd4104d-dcf1-46af-bb1b-ce17a1ac763c	SyntaxError: Unexpected token } in JSON at position 50
+3/17/2023, 2:06:46 PM	8664f72b-7162-4164-ae50-0337c78137a7	SyntaxError: Unexpected token } in JSON at position 17
+3/17/2023, 2:06:56 PM	9d0f5b44-c603-4fb2-b73b-9fef0911372b	SyntaxError: Unexpected token } in JSON at position 17
+3/17/2023, 2:07:26 PM	1b09a940-265f-4cde-b88a-9b46c3633a36	SyntaxError: Unexpected token } in JSON at position 55
